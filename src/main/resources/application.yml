@@ -1,0 +1,7 @@
+server:
+  port: 15800
+spring:
+  elasticsearch:
+    rest:
+      uris: 172.16.4.80:9200
+
